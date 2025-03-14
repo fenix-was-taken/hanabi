@@ -1,3 +1,3 @@
-# My Awesome Game
+# Hanabi
 
-This is My Awesome 16 Bit Cartridge game for mega Drive
+A shoot-em-up for the Sega Genesis (1989). A personal project of mine I like to develop when I feel the urge to.

@@ -4,7 +4,7 @@
 
 int main()
 {
-    VDP_drawText("Hello World!", 10,13);
+    VDP_drawText("Hello, world.", 10,13);
     while(1)
     {
         //For versions prior to SGDK 1.60 use VDP_waitVSync instead.
